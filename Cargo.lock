@@ -970,6 +970,8 @@ dependencies = [
  "hmac",
  "k256",
  "rand",
+ "rand_core",
+ "sha2",
  "tiny-bip39",
  "tiny-keccak",
  "tokio",
